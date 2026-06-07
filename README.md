@@ -21,9 +21,6 @@ A Computer Engineering student learning backend engineering, focused on building
   <h3 style="color:#ff69b4;">Languages & Tools</h3>
 
   <img src="https://skillicons.dev/icons?i=python" />
-
-  <br><br>
-
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 
 </div>
