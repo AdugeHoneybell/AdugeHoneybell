@@ -16,16 +16,16 @@ A Computer Engineering student learning backend engineering, focused on building
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-## 🛠️ Languages and Tools
+<div align="center">
 
-<br>
+  <h3 style="color:#ff69b4;">Languages & Tools</h3>
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
-</p>
 
-<hr>
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+
+</div>
 </div>
 
