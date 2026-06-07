@@ -63,5 +63,13 @@ After this, I’m moving into relational databases and how data is structured, s
 
 <hr>
 
+<h3>🚀 Projects</h3>
+
+<p>
+I'm currently focused on strengthening my backend engineering fundamentals. As I build and complete projects, they'll be featured here.
+</p>
+
+<hr>
+
 </div>
 
