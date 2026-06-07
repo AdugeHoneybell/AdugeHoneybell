@@ -51,5 +51,27 @@ After this, I’m moving into relational databases and how data is structured, s
 
 </div>
 
+<h3>⚡️ Stats</h3>
+
+<br>
+
+<div align="center">
+
+  <img width="390"
+    src="https://github-readme-stats.vercel.app/api?username=AdugeHoneybell&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&title_color=ff69b4&text_color=ffb6c1&icon_color=ff69b4"
+    alt="AdugeHoneybell GitHub Stats" />
+
+  <img width="390"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AdugeHoneybell&theme=transparent&border_radius=10&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"
+    alt="GitHub Streak Stats" />
+
+  <img width="325"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AdugeHoneybell&theme=transparent&layout=donut&langs_count=8&border_radius=10&title_color=ff69b4&text_color=ffb6c1"
+    alt="Most Used Languages" />
+
+</div>
+
+<hr>
+
 </div>
 
