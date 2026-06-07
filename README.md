@@ -16,5 +16,12 @@ A Computer Engineering student learning backend engineering, focused on building
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+  <div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python" />
+
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+
+</div>
 </div>
 
