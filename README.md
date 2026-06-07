@@ -24,14 +24,12 @@ A Computer Engineering student learning backend engineering, focused on building
   <br>
 
   <img src="https://skillicons.dev/icons?i=python" />
-
-  <br><br>
-
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 
   <hr>
 
 </div>
+<h3>📚 Currently Learning</h3>
 
 <p>
 I’m currently focusing on how the internet works at a foundational level, including:
@@ -48,5 +46,6 @@ I’m currently focusing on how the internet works at a foundational level, incl
 <p>
 After this, I’m moving into relational databases and how data is structured, stored, and queried efficiently.
 </p>
+
 </div>
 
