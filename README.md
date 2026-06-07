@@ -1,4 +1,4 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{AdugeHoneybell}/count.svg" alt="Visitor's Count" />
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/AdugeHoneybell/count.svg" alt="Visitor Count" />
 </div>
