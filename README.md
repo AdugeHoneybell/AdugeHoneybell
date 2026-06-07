@@ -17,11 +17,12 @@ A Computer Engineering student learning backend engineering, focused on building
   </a>
 </p>
   ## 🛠️ Languages and Tools
+  <br>
  <div align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 
-</div>
+  <hr>
 </div>
 
