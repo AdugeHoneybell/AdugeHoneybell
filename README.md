@@ -17,35 +17,36 @@ A Computer Engineering student learning backend engineering, focused on building
   </a>
 </p>
   
-  <h3>⚒️ Languages and Tools</h3>
-  
-<div align="center">
+ <div align="center">
+
+  <h2>🛠️ Languages and Tools</h2>
+
+  <br>
 
   <img src="https://skillicons.dev/icons?i=python" />
+
+  <br><br>
+
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 
-</div>
-
-<h3>📚 Currently Learning</h3>
-
-<div align="center">
-
-  <p>
-    I’m currently focusing on how the internet works at a foundational level, including:
-  </p>
-
-  <ul style="text-align:left; display:inline-block;">
-    <li>How the internet works end-to-end</li>
-    <li>HTTP and how web communication works</li>
-    <li>Domain names, DNS, and hosting</li>
-    <li>How browsers work behind the scenes</li>
-    <li>Version control systems (Git & GitHub)</li>
-  </ul>
-
-  <p>
-    After this, I’m moving into relational databases and how data is structured, stored, and queried efficiently.
-  </p>
+  <hr>
 
 </div>
+
+<p>
+I’m currently focusing on how the internet works at a foundational level, including:
+</p>
+
+<ul>
+  <li>How the internet works end-to-end</li>
+  <li>HTTP and how web communication works</li>
+  <li>Domain names, DNS, and hosting</li>
+  <li>How browsers work behind the scenes</li>
+  <li>Version control systems (Git & GitHub)</li>
+</ul>
+
+<p>
+After this, I’m moving into relational databases and how data is structured, stored, and queried efficiently.
+</p>
 </div>
 
