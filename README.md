@@ -28,8 +28,7 @@ A Computer Engineering student learning backend engineering, focused on building
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=C#" />
   
- 
-  <hr>
+  <br>
 
 </div>
 <div align="left">
