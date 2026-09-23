@@ -26,6 +26,7 @@ A Computer Engineering student learning backend engineering, focused on building
   <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=java" />
+  
   <img src="https://skillicons.dev/icons?i=C#" />
    <br>
   
